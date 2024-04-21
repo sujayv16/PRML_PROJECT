@@ -33,7 +33,7 @@ Installation of web app using source code:
 2. Install the required packages:python -m pip install --user -r requirements.txt
 3. Run the application
 
-spotlight video:
+spotlight video: https://youtu.be/UzAvotuFquI?feature=shared 
 -------------
    
 team:
