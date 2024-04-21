@@ -3,7 +3,7 @@
 Handwritten Digit Recognition
 =============================
 
-link to our project page :
+link to our project page : https://662540b2b8e898d5f740ff89--handwrittendigitsrecognition.netlify.app/
 ------------
 Description:
 ------------
