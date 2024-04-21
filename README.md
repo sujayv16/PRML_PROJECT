@@ -24,7 +24,7 @@ Files:
 - `handwritten_digit_recognition.ipynb`: Jupyter Notebook containing the code for various algorithms used in our project.
 - `report.pdf`: Detailed report of our project.
 - app.zip : Source code for the web page demo of our project. The source code is zipped into `app.zip`.
-- `presentation.pdf`: Presentation slides for our project.
+- `presentation.pptx`: Presentation slides for our project.
 - `report.pdf`: Detailed report of our project.
 
 Installation of web app using source code:
