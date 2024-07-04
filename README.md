@@ -28,6 +28,9 @@ Files:
 - `report.pdf`: Detailed report of our project.
 
 
+spotlight video: https://youtu.be/UzAvotuFquI?feature=shared 
+
+
 ## Installation
 
 ### Step 1: Install Python 3.6.8
@@ -40,10 +43,3 @@ Install the required Python packages using pip:
 
 ```bash
 python -m pip install --user -r requirements.txt
-
-
-spotlight video: https://youtu.be/UzAvotuFquI?feature=shared 
--------------
-   
-
-
