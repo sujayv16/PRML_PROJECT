@@ -27,21 +27,23 @@ Files:
 - `presentation.pptx`: Presentation slides for our project.
 - `report.pdf`: Detailed report of our project.
 
-Installation of web app using source code:
--------------
-1. Install Python 3.6.8.
-2. Install the required packages:python -m pip install --user -r requirements.txt
-3. Run the application
+
+## Installation
+
+### Step 1: Install Python 3.6.8
+
+Ensure Python 3.6.8 is installed on your system.
+
+### Step 2: Install Required Packages
+
+Install the required Python packages using pip:
+
+```bash
+python -m pip install --user -r requirements.txt
+
 
 spotlight video: https://youtu.be/UzAvotuFquI?feature=shared 
 -------------
    
-team:
-------------
-viswanadhapalli sujay (b22cs063)
-yerra nithin manoj (b22cs066)
-malothu suresh (b22cs031)
-v k santosh (b22ai049)
-kowshika (b22cs018)
 
 
